@@ -5,8 +5,7 @@ This repository will house all code, data, and files related to peronal projects
 
 # Seattle Terry Stop Data
 -----------------------
-## [Are There Racial Biases In Terry Stops In Seattle, WA?]
-(https://github.com/bryan-md/Data-Science-Projects/tree/master/Seattle%20Terry%20Stop)
+## [Are There Racial Biases In Terry Stops In Seattle, WA?](https://github.com/bryan-md/Data-Science-Projects/tree/master/Seattle%20Terry%20Stop)
 **Key Skills**
 * Bokeh Plot Visuals / Dashboard Creation
 * Imbalanced Dataset Handling

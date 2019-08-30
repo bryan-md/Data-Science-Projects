@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Data Science Projects
 This repository will house all code, data, and files related to peronal projects and my work in the Springboard Data Science Program. The following acts as a table of contents for the whole repository
 
 <img src="https://github.com/bryan-md/Data-Science-Projects/blob/master/imgs/rdimg.png"></img>

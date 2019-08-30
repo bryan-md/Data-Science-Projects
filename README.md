@@ -29,7 +29,7 @@ This repository will house all code, data, and files related to peronal projects
 --------------------------------
 **Several EDA's performed on varying data categories.**
 ## [Hospital Readmittance Data](https://github.com/bryan-md/Data-Science-Projects/tree/master/Hospital%20Readmit%20EDA)
-**Hospital Readmittance performs a statistical analysis on a previously done analysis to critique its validity. Center for Medicare and Medicaid Services (CMS) began reducing Medicare payments for Inpatient Prospective Payment System hospitals with excess readmissions. The analysis focuses on Hospital readmittance data analysis. **
+**Hospital Readmittance performs a statistical analysis on a previously done analysis to critique its validity. Center for Medicare and Medicaid Services (CMS) began reducing Medicare payments for Inpatient Prospective Payment System hospitals with excess readmissions. The analysis focuses on Hospital readmittance data analysis.**
 ## [Human Temperature Data](https://github.com/bryan-md/Data-Science-Projects/tree/master/Human%20Body%20Temp%20EDA)
 **Human Temperature EDA uses bootstrap statistics to determine the true average temperature of the human body in both male and females.**
 ## [Racial Discrimination Data](https://github.com/bryan-md/Data-Science-Projects/tree/master/Racial%20Discrimination%20Using%20EDA)

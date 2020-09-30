@@ -3,6 +3,25 @@ This repository will house all code, data, and files related to peronal projects
 
 <img src="https://github.com/bryan-md/Data-Science-Projects/blob/master/imgs/rdimg.png"></img>
 
+# Predicting Nitrogen Pollution in the Chesapeake Bay
+-----------------------
+## [What are important factors impacting Total Nitrogen in the Chesapeake Bay?](https://github.com/teamHackTheBay/hackTheBay)
+**Key Skills**
+* Correlation Plots
+* Geospatial Analysis (Geopandas, QGIS, geopy)
+* Feature Engineering
+* Data Wrangling
+* SHAP & Permutation Feature Importance
+* Ensemble Modeling
+
+**<ins> WINNING ENTRY :</ins> A social good hackathon hosted by Booz Allen Hamilton & Chesapeake Monitoring Cooperative (CMC) to explore data monitoring the health of the Chesapeake Bay watershed. The challenge was to create a predictive model & correlation analysis for explaining patterns found from condition measures expressed by water quality indicator(s) assessments in the Chesapeake Bay watershed​. The judging criteria were based upon robustness, scalability, and creativity by 16 expert judges representing leadership from 7 organizations and expertise across environmental science and modeling, data science, machine learning, and human-centered design.
+The task was to build a predictive model or correlation analysis for pollution in a section of the Chesapeake Bay using CMC monitoring data.**
+
+[See the Devpost submission here](https://devpost.com/software/hack-the-bay-challenge-3)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kAa5iWRKkNc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 # Seattle Terry Stop Data
 -----------------------
 ## [Are There Racial Biases In Terry Stops In Seattle, WA?](https://github.com/bryan-md/Data-Science-Projects/tree/master/Seattle%20Terry%20Stop)

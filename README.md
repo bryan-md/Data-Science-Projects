@@ -14,12 +14,12 @@ This repository will house all code, data, and files related to peronal projects
 * SHAP & Permutation Feature Importance
 * Ensemble Modeling
 
-**<ins> WINNING ENTRY :</ins> A social good hackathon hosted by Booz Allen Hamilton & Chesapeake Monitoring Cooperative (CMC) to explore data monitoring the health of the Chesapeake Bay watershed. The challenge was to create a predictive model & correlation analysis for explaining patterns found from condition measures expressed by water quality indicator(s) assessments in the Chesapeake Bay watershed​. The judging criteria were based upon robustness, scalability, and creativity by 16 expert judges representing leadership from 7 organizations and expertise across environmental science and modeling, data science, machine learning, and human-centered design.
+**<ins> WINNING ENTRY :</ins> A social good hackathon hosted by Booz Allen Hamilton & Chesapeake Monitoring Cooperative (CMC) to explore data monitoring the health of the Chesapeake Bay watershed. The challenge was to create a predictive model & correlation analysis for explaining patterns found from condition measures expressed by water quality indicator(s) assessments in the Chesapeake Bay watershed. The judging criteria were based upon robustness, scalability, and creativity by 16 expert judges representing leadership from 7 organizations and expertise across environmental science and modeling, data science, machine learning, and human-centered design.
 The task was to build a predictive model or correlation analysis for pollution in a section of the Chesapeake Bay using CMC monitoring data.**
 
 [See the Devpost submission here](https://devpost.com/software/hack-the-bay-challenge-3)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kAa5iWRKkNc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the hackthebay submission](https://github.com/bryan-md/Data-Science-Projects/blob/master/imgs/htb_img.PNG)](https://www.youtube.com/watch?v=kAa5iWRKkNc)
 
 
 # Seattle Terry Stop Data

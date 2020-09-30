@@ -19,7 +19,7 @@ The task was to build a predictive model or correlation analysis for pollution i
 
 [See the Devpost submission here](https://devpost.com/software/hack-the-bay-challenge-3)
 
-[![Watch the hackthebay submission](https://github.com/bryan-md/Data-Science-Projects/blob/master/imgs/htb_img.PNG)](https://www.youtube.com/watch?v=kAa5iWRKkNc)
+[![Watch the hackthebay submission](https://github.com/bryan-md/Data-Science-Projects/blob/master/imgs/htb_img.PNG){:height="50%" width="50%"}](https://www.youtube.com/watch?v=kAa5iWRKkNc)
 
 
 # Seattle Terry Stop Data
